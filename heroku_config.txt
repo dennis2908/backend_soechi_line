@@ -1,0 +1,6 @@
+set_user := "yyomkinomtmbwm"
+	set_port := "5432"
+	set_dbname := "dd57i12ud4jite"
+	set_sslmode := "require"
+	set_password := "447006c8d15657216bdbc3d7431ad528507ffb7001e1e62129613853894d9b55"
+	set_host := "ec2-54-224-120-186.compute-1.amazonaws.com"
